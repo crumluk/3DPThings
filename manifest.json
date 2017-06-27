@@ -1,0 +1,15 @@
+{
+  "visibleProjects":{
+    "3D Four in a Row":"four_in_a_row.json",
+    "Baby Keepsake Box":"baby_box.json",
+    "Cigar Holder":"cigar_holder.json",
+    "Jack Puzzle":"jack_puzzle.json",
+    "Knot Puzzle":"knot_puzzle.json",
+    "Noughts and Crosses":"noughts_and_crosses.json",
+    "Padlock":"padlock.json",
+    "Preposterous Puzzle":"preposterous_puzzle.json",
+    "Star Dodecahedron Puzzle":"dodecahedron_puzzle.json",
+    "Wits' End Puzzle":"wits_end.json"
+  },
+  "hiddenProjects":{}
+}
