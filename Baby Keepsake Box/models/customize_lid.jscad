@@ -301,12 +301,12 @@ function main() {
 
     name = name.setColor([0,191,255]);
 
-    return union( difference(pol,name) , text() );
+    return union( difference(pol,name) , text(params) );
 
     // print cut-out name hole and non-cut-out name letters
 }
 
-function text(){
+function text(params){
 	var l = vector_text(0,0,params.name);   // l contains a list of polylines to be drawn
 	var o = [];
 	l.forEach(function(pl) {                   // pl = polyline (not closed)
