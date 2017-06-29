@@ -5,7 +5,7 @@
 // objects: 1
 // object #1: triangles: 68
 
-function main() { 
+function main(params) { 
     let pol = polyhedron({ points: [
 	[159,55.97845458984375,84.84424591064453],
 	[3,58.459415435791016,84.40709686279297],
